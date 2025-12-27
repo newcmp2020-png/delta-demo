@@ -1,2 +1,2 @@
 # delta-demo
-this is first demo on github account
+this is first demo on github account.
